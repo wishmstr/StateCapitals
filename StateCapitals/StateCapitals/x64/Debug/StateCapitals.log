@@ -1,0 +1,3 @@
+﻿  capitalquestions.c
+C:\Users\Wishmaster\Desktop\C Projects\StateCapitals\StateCapitals\capitalquestions.c(25,5): warning C4013: 'menu' undefined; assuming extern returning int
+  StateCapitals.vcxproj -> C:\Users\Wishmaster\Desktop\C Projects\StateCapitals\x64\Debug\StateCapitals.exe
